@@ -1,2 +1,3 @@
 Some new text here!
 New line added!
+New line added again!
